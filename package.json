@@ -1,0 +1,24 @@
+{
+  "name": "js-telegram-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "axios": "^0.20.0",
+    "telegraf": "^3.38.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dave-lab12/Simple-Telegram-Bot.git"
+  },
+  "author": "Dave",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dave-lab12/Simple-Telegram-Bot/issues"
+  },
+  "homepage": "https://github.com/Dave-lab12/Simple-Telegram-Bot#readme"
+}

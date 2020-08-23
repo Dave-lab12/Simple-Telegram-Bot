@@ -122,6 +122,7 @@ bot.command('joke',(ctx)=>{
         
     })
 })
+//fetch the jokes from external api
 async function jokes(){
     url = "https://sv443.net/jokeapi/v2/joke/Any"
    let res = await axios.get(url)
